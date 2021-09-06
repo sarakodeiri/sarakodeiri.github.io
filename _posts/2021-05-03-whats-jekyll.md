@@ -1,17 +1,17 @@
 ---
 layout: post
-title: About
+title: About Me
 ---
 Hi :) I've currently finished my fourth year at [Iran University of Science and Technology](http://www.iust.ac.ir/en), getting my BSc. in Computer Engineering. I'm expected to graduate in January 2022. During this time, I've had the privilege to explore different topics in Computer Science and Electrical Engineering to broaden my knowledge. My research interests include Integration of Vision and Language, Natural Language Processing, Computer Vision and Ethics in AI. You can view a summary of my CV in this post. 
 
-## Academic Experience
+<!-- ## Academic Experience
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Mobile friendly design and development
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
 * Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter) -->
 
 ## Teaching Assistance
 
@@ -27,7 +27,14 @@ In chronological order:
 
 ## Education
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+* [Iran University of Science and Technology](http://www.iust.ac.ir/en) 
+:	Bachelor of Science in Computer Engineering (2017 - 2022)
+:	Current GPA with 129 credits: 3.56
+
+* [Manzoomeye Kherad Institute](https://www.kheradedu.ir/)
+:	Diploma in Mathematics and Physics Discipline (2013 - 1017)
+:	Diploma GPA: 4.0
+
 
 ## Contact
 
