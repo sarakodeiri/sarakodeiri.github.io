@@ -36,8 +36,8 @@ In chronological order:
 :	Diploma GPA: 4.0
 
 
-## Contact
+<!-- ## Contact
 
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
+Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests. -->
 
 Thanks!
